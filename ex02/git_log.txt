@@ -1,0 +1,5 @@
+commit 6bb70cc03a5943033cda57a355d65a2454e9e5c8
+Author: NasirBassam <nasiralzoubi351@gmail.com>
+Date:   Thu Oct 1 04:45:29 2026 -0400
+
+    Add hello.txt
